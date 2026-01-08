@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZiNzs+g5rwg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intel\\source\\repos\\openvinoMXCKQ\\openvinoMXCKQ\\openvinoMXCKQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.22\\microsoft.net.illink.tasks.8.0.22.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\openvino.csharp.api\\2025.3.0.1\\openvino.csharp.api.2025.3.0.1.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\openvino.runtime.win\\2025.3.0\\openvino.runtime.win.2025.3.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\tokenizers.dotnet\\1.3.0\\tokenizers.dotnet.1.3.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\tokenizers.dotnet.runtime.win-x64\\1.3.0\\tokenizers.dotnet.runtime.win-x64.1.3.0.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.22\\microsoft.netcore.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.22\\microsoft.aspnetcore.app.runtime.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'OpenVINO.runtime.win 2025.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\intel\\source\\repos\\openvinoMXCKQ\\openvinoMXCKQ\\openvinoMXCKQ.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\intel\\source\\repos\\openvinoMXCKQ\\openvinoMXCKQ\\openvinoMXCKQ.csproj",
+      "libraryId": "OpenVINO.runtime.win",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
