@@ -1,6 +1,6 @@
 # 🌟 OpenVINO Model Information Viewer （OpenVINO 模型信息查看器）
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -94,4 +94,4 @@ All information is presented in a clean, structured, and highly readable format.
 
 ## ⚖️ License
 
-Licensed under the **Apache License, Version 2.0**.  
+Licensed under the **MIT License**.  
