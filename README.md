@@ -22,7 +22,7 @@ OpenVINO Model Information Viewer 是一款专为 OpenVINO IR 模型打造的 **
 * 理解模型的输入输出格式
 * 排查部署与推理过程中的常见错误
 * 分析模型是否支持 stateful、beam search、动态 shape 等特性
-* 判断模型是否适合在 CPU / GPU / NPU 上运行
+* 帮助确认模型是否可以在 CPU 上成功编译
 
 ### 👤 适用人群
 * OpenVINO 初学者
@@ -38,7 +38,7 @@ OpenVINO Model Information Viewer 是一款专为 OpenVINO IR 模型打造的 **
 * ✔ 支持动态维度识别
 * ✔ 支持 stateful 模型检测
 * ✔ 支持 beam search 控制输入识别
-* ✔ 自动编译模型并输出设备信息
+* ✔ 自动编译模型并输出信息
 
 ### 🔍 核心特色
 **不仅告诉你“参数是什么”，还告诉你“它有什么用”！** 这是本工具区别于普通模型信息打印脚本的最大亮点。
@@ -66,7 +66,7 @@ All information is presented in a clean, structured, and highly readable format.
 * Understand model IO formats
 * Troubleshoot deployment and inference issues
 * Analyze support for stateful mode, beam search, and dynamic shapes
-* Determine device compatibility (CPU / GPU / NPU)
+* Help confirm whether the model can be successfully compiled on CPU
 
 ### 👤 Ideal for:
 * OpenVINO beginners
@@ -82,7 +82,7 @@ All information is presented in a clean, structured, and highly readable format.
 * ✔ Dynamic shape detection
 * ✔ Stateful model detection
 * ✔ Beam search control input detection
-* ✔ Automatic model compilation with device info
+* ✔ Automatic model compilation and info output
 
 ### 🔍 Core Highlight
 **It doesn’t just show “what the parameters are” — it explains “what they are used for”.** This is the key feature that sets it apart from simple model info dumpers.
