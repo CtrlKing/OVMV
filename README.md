@@ -7,7 +7,6 @@
 ## 📝 中文介绍
 
 OpenVINO Model Information Viewer 是一款专为 OpenVINO IR 模型打造的 **智能模型解析工具**。 
-本项目使用了 [OpenVINO-CSharp-API](https://github.com/guojin-yan/OpenVINO-CSharp-API)，在此感谢作者的开源贡献。
 只需要选择模型文件夹中的 model.xml，工具即可自动完成以下任务：
 * 加载分词器（Tokenizer）
 * 解析模型配置（Model Config）
@@ -379,4 +378,5 @@ All information is presented in a clean, structured, and highly readable format.
 
 ## ⚖️ License
 
+本项目使用了 [OpenVINO-CSharp-API](https://github.com/guojin-yan/OpenVINO-CSharp-API)，在此感谢作者的开源贡献。
 Licensed under the **MIT License**.  
