@@ -14,7 +14,7 @@ OpenVINO Model Information Viewer 是一款专为 OpenVINO IR 模型打造的 **
 * 展示模型输入输出结构（IO Tensors）
 * 显示特殊 Token 及其用途
 * 识别动态维度、KV Cache、Beam Search 等关键字段
-* 编译模型并检测可用设备
+* 编译模型并输出信息
 
 所有信息都会以 **清晰、结构化、可读性极高** 的方式呈现。 更重要的是，本工具会对 **每一个参数、每一个输入输出张量、每一个特殊 Token 给出 详细的用途解释**，让你无需查文档即可理解模型内部结构。(事实上很多模型卡基本上找不到基础说明)
 
@@ -58,7 +58,7 @@ OpenVINO Model Information Viewer is an intelligent inspection tool designed spe
 * Display input/output tensor structures
 * Show special tokens and their purposes
 * Detect dynamic shapes, KV cache, beam search fields
-* Compile the model and list available devices
+* Compile model and output information 
 
 All information is presented in a clean, structured, and highly readable format. More importantly, the tool provides **detailed explanations for every parameter, every IO tensor, and every special token**, allowing you to understand the model without digging through documentation.(which, in practice, often doesn’t even contain these basic explanations in the model card). 
 
